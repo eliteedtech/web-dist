@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2.116",
-  "versionCode": 100316,
-  "apkUrl": "https://github.com/eliteedtech1-debug/elitescholar.app/releases/latest/download/EliteCore.apk",
-  "releaseNotes": "Release v1.0.2.116",
+  "version": "1.0.0",
+  "versionCode": 1,
+  "apkUrl": "https://github.com/eliteedtech1-debug/elitescholar.app/releases/latest/download/EliteCore-stable.apk",
+  "releaseNotes": "Initial release with Elite Core logo and biometric authentication",
   "forceUpdate": false
 }
