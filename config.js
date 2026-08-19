@@ -26,12 +26,12 @@ window.__APP_CONFIG__ = {
   VITE_APP_SHORT_NAME: 'ELITECORE',
   APP_SHORT_NAME: 'ELITECORE',
   
-  VITE_APP_URL: 'elitecore.com.ng',
-  APP_URL: 'elitecore.com.ng',
+  VITE_APP_URL: 'elitesms.com.ng',
+  APP_URL: 'elitesms.com.ng',
   
-  VITE_APP_DOMAIN: 'elitecore.com.ng',
-  APP_DOMAIN: 'elitecore.com.ng',
-  REACT_APP_DOMAIN: 'elitecore.com.ng',
+  VITE_APP_DOMAIN: 'elitesms.com.ng',
+  APP_DOMAIN: 'elitesms.com.ng',
+  REACT_APP_DOMAIN: 'elitesms.com.ng',
   
   VITE_PRIMARY_COLOR: '#2563eb',
   PRIMARY_COLOR: '#2563eb',
@@ -54,8 +54,8 @@ window.__APP_CONFIG__ = {
   VITE_POWERED_BY_TEXT: 'Powered by Elite Edu Tech',
   POWERED_BY_TEXT: 'Powered by Elite Edu Tech',
   
-  VITE_POWERED_BY_URL: 'https://elitecore.com.ng/',
-  POWERED_BY_URL: 'https://elitecore.com.ng/',
+  VITE_POWERED_BY_URL: 'https://elitesms.com.ng/',
+  POWERED_BY_URL: 'https://elitesms.com.ng/',
   
   VITE_DEFAULT_SCHOOL_ID: '',
   DEFAULT_SCHOOL_ID: '',

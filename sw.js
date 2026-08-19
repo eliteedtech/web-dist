@@ -1,4 +1,4 @@
-const CACHE_NAME = 'elite-scholar-v1.0.2.125';
+const CACHE_NAME = 'elite-scholar-v1.0.2.126';
 const urlsToCache = [
   '/manifest.json'
 ];
@@ -33,7 +33,7 @@ self.addEventListener('fetch', (event) => {
   
   const url = new URL(event.request.url);
 
-  // Skip cross-origin requests (e.g. files.elitecore.com.ng) to avoid CORS errors
+  // Skip cross-origin requests (e.g. files.elitesms.com.ng) to avoid CORS errors
   if (url.origin !== self.location.origin) {
     return;
   }
